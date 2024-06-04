@@ -57,6 +57,7 @@ def parse_response(response):
     return chargers
 
 def run():
+    """get coordinates of EV chargers in Warsaw"""
     resp = get_resp()
     chargers = parse_response(resp)
     with open('chargers7.json','w') as f:
