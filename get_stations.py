@@ -9,6 +9,7 @@ class getStations:
         self.y = y
 
     def get_data(self):
+        """returns a dataframe of closest 200 transformer stations to a specified coordinate point"""
         session_url = "https://m40.targeo.pl/TargeoLoader_1_7.html?gz=0&fx=&ln=&k=ODY2NzI1YjgzOWFlMWM4YjM5Zjc2N2U5MTAzNjY1Y2Q5MTE2ODA0NQ==&vn=2_5&v=full&f=ModulesInitialize&jq=&e=mapa-polski-targeo&m=1&elemsent=1"
         api_url = "https://m44.targeo.pl/service.html"
 
