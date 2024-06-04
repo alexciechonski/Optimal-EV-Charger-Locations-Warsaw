@@ -8,6 +8,8 @@ import numpy as np
 import numpy as np
 
 def find_roads_within_range(lat, lon):
+    """ find significant roads in the radius of 4km from a specified location"""
+    
     # Define a bounding box around the coordinates with a specified distance in meters
     north, south, east, west = ox.utils_geo.bbox_from_point((lat, lon), dist=4000)
     
