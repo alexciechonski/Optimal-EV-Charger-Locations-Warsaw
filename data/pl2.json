@@ -1,0 +1,772 @@
+{
+  "1": {
+    "lat": 52.2415039,
+    "lon": 21.0147898,
+    "address": "Genera\u0142a Micha\u0142a Tokarzewskiego-Karaszewicza, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-072, Polska"
+  },
+  "2": {
+    "lat": 52.2302963,
+    "lon": 21.020282899999998,
+    "address": "Liberty Corner, 5, Mysia, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-496, Polska"
+  },
+  "3": {
+    "lat": 52.24746,
+    "lon": 21.0120452,
+    "address": "3, Podwale, Stare Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-252, Polska"
+  },
+  "4": {
+    "lat": 52.2296756,
+    "lon": 21.012228699999998,
+    "address": "Rondo Romana Dmowskiego, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-510, Polska"
+  },
+  "5": {
+    "lat": 52.235115,
+    "lon": 21.011443,
+    "address": "Jasna, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-049, Polska"
+  },
+  "6": {
+    "lat": 52.2326231,
+    "lon": 21.0213114,
+    "address": "Indigo, 40, Smolna, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-375, Polska"
+  },
+  "7": {
+    "lat": 52.2297485,
+    "lon": 20.9838429,
+    "address": "Prosta, Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-838, Polska"
+  },
+  "8": {
+    "lat": 52.233232,
+    "lon": 21.001077,
+    "address": "Maria\u0144ska, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-123, Polska"
+  },
+  "9": {
+    "lat": 52.231845,
+    "lon": 21.0093641,
+    "address": "Marsza\u0142kowska, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-017, Polska"
+  },
+  "10": {
+    "lat": 52.2469445,
+    "lon": 20.97939,
+    "address": "Dom mody Klif, 58/72, Okopowa, Muran\u00f3w Zachodni, Nowolipki, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-042, Polska"
+  },
+  "11": {
+    "lat": 52.237727299999996,
+    "lon": 21.003544899999998,
+    "address": "18, Kr\u00f3lewska, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-103, Polska"
+  },
+  "12": {
+    "lat": 52.2333278,
+    "lon": 21.0196206,
+    "address": "Cava, 30, Nowy \u015awiat, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-373, Polska"
+  },
+  "13": {
+    "lat": 52.1647032,
+    "lon": 20.9988636,
+    "address": "33C, Taborowa, Zielony Ursyn\u00f3w, Wycz\u00f3\u0142ki, Ursyn\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-699, Polska"
+  },
+  "14": {
+    "lat": 52.233680199999995,
+    "lon": 21.0020567,
+    "address": "Warszawskie Centrum Finansowe, 53, Emilii Plater, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-113, Polska"
+  },
+  "15": {
+    "lat": 52.219699999999996,
+    "lon": 21.0301555,
+    "address": "Zamek Ujazdowski, 2, Jazd\u00f3w, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-467, Polska"
+  },
+  "16": {
+    "lat": 52.198705,
+    "lon": 20.9175683,
+    "address": "Kleszczowa, Solipse, Stare W\u0142ochy, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-485, Polska"
+  },
+  "17": {
+    "lat": 52.227992199999996,
+    "lon": 20.9874479,
+    "address": "Towarowa, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-839, Polska"
+  },
+  "18": {
+    "lat": 52.2307152,
+    "lon": 21.0067418,
+    "address": "Pasa\u017c Zuzanny Ginczanki, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-001, Polska"
+  },
+  "19": {
+    "lat": 52.2274739,
+    "lon": 21.0175178,
+    "address": "Lokal Vegan Bistro, 23/31, Krucza, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-525, Polska"
+  },
+  "20": {
+    "lat": 52.242373099999995,
+    "lon": 21.0120474,
+    "address": "Plac marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-073, Polska"
+  },
+  "21": {
+    "lat": 52.2297376,
+    "lon": 21.0233492,
+    "address": "21, Ksi\u0105\u017c\u0119ca, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-498, Polska"
+  },
+  "22": {
+    "lat": 52.2112608,
+    "lon": 21.032097,
+    "address": "Aleja Chi\u0144ska, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-746, Polska"
+  },
+  "23": {
+    "lat": 52.233188899999995,
+    "lon": 21.025544099999998,
+    "address": "Smolna, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-375, Polska"
+  },
+  "24": {
+    "lat": 52.2548593,
+    "lon": 21.004700399999997,
+    "address": "W\u00f3jtowska, Nowe Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-224, Polska"
+  },
+  "25": {
+    "lat": 52.2277462,
+    "lon": 21.0218381,
+    "address": "1A, Ho\u017ca, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-528, Polska"
+  },
+  "26": {
+    "lat": 52.240745499999996,
+    "lon": 21.0287102,
+    "address": "43B, Wybrze\u017ce Ko\u015bciuszkowskie, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-347, Polska"
+  },
+  "27": {
+    "lat": 52.2514968,
+    "lon": 21.014492999999998,
+    "address": "ZTP Bugaj, Wybrze\u017ce Gda\u0144skie, Stare Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-285, Polska"
+  },
+  "28": {
+    "lat": 52.232289699999995,
+    "lon": 20.9842172,
+    "address": "Warsaw Spire, 1, Plac Europejski, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-844, Polska"
+  },
+  "29": {
+    "lat": 52.252226099999994,
+    "lon": 21.007324,
+    "address": "Ko\u017ala, Nowe Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-234, Polska"
+  },
+  "30": {
+    "lat": 52.2064722,
+    "lon": 20.9566399,
+    "address": "O\u015brodek sportowy G\u00f3rka Szcz\u0119\u015bliwicka, 22, Drawska, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-202, Polska"
+  },
+  "31": {
+    "lat": 52.2390103,
+    "lon": 21.0033919,
+    "address": "Graniczna, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-130, Polska"
+  },
+  "32": {
+    "lat": 52.2209284,
+    "lon": 21.036654499999997,
+    "address": "ZTP My\u015bliwiecka, My\u015bliwiecka, Cypel Czerniakowski, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-451, Polska"
+  },
+  "33": {
+    "lat": 52.249070499999995,
+    "lon": 21.0049864,
+    "address": "Plac Krasi\u0144skich, Nowe Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-207, Polska"
+  },
+  "34": {
+    "lat": 52.2412589,
+    "lon": 21.0284569,
+    "address": "Parking pod Centrum Nauki \"Kopernik\", Wybrze\u017ce Ko\u015bciuszkowskie, Mariensztat, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-390, Polska"
+  },
+  "35": {
+    "lat": 52.2353065,
+    "lon": 20.9760998,
+    "address": "Aleja \"Solidarno\u015bci\", Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-201, Polska"
+  },
+  "36": {
+    "lat": 52.227337,
+    "lon": 21.004576999999998,
+    "address": "Centrum LIM, 65/79, Aleje Jerozolimskie, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-697, Polska"
+  },
+  "37": {
+    "lat": 52.2331534,
+    "lon": 21.0001701,
+    "address": "Zdrofit, 1, Rondo ONZ, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-828, Polska"
+  },
+  "38": {
+    "lat": 52.2602094,
+    "lon": 21.0242818,
+    "address": "J\u00f3zefa Szanajcy, Praga III, Nowa Praga, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-468, Polska"
+  },
+  "39": {
+    "lat": 52.2452993,
+    "lon": 21.019334,
+    "address": "Bednarska, Mariensztat, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-310, Polska"
+  },
+  "40": {
+    "lat": 52.233176799999995,
+    "lon": 21.011885799999998,
+    "address": "9, Zgoda, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-018, Polska"
+  },
+  "41": {
+    "lat": 52.2340921,
+    "lon": 20.9996981,
+    "address": "Twarda, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-114, Polska"
+  },
+  "42": {
+    "lat": 52.2287143,
+    "lon": 21.014137299999998,
+    "address": "27, Nowogrodzka, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-511, Polska"
+  },
+  "43": {
+    "lat": 52.212469,
+    "lon": 20.954204999999998,
+    "address": "Blue City, 179, Aleje Jerozolimskie, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-222, Polska"
+  },
+  "44": {
+    "lat": 52.2246418,
+    "lon": 21.0069373,
+    "address": "84, Ho\u017ca, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-928, Polska"
+  },
+  "45": {
+    "lat": 52.227059999999994,
+    "lon": 21.003724,
+    "address": "Nowogrodzka, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-698, Polska"
+  },
+  "46": {
+    "lat": 52.223144999999995,
+    "lon": 21.006652799999998,
+    "address": "74, Wilcza, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-670, Polska"
+  },
+  "47": {
+    "lat": 52.208354899999996,
+    "lon": 20.975818999999998,
+    "address": "Zieleniak, 97, Gr\u00f3jecka, Osiedle Szosa Krakowska, Rakowiec, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-101, Polska"
+  },
+  "48": {
+    "lat": 52.2565441,
+    "lon": 21.0074139,
+    "address": "Romana Sanguszki, Nowe Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-222, Polska"
+  },
+  "49": {
+    "lat": 52.253082199999994,
+    "lon": 21.0316686,
+    "address": "Aleja \"Solidarno\u015bci\", Port Praski, Stara Praga, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-402, Polska"
+  },
+  "50": {
+    "lat": 52.2159896,
+    "lon": 20.9582853,
+    "address": "Stacja obs\u0142ugi taboru PKS Polonus, 144A, Aleje Jerozolimskie, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-335, Polska"
+  },
+  "51": {
+    "lat": 52.2475411,
+    "lon": 20.979665,
+    "address": "Okopowa, Muran\u00f3w Zachodni, Nowolipki, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-042, Polska"
+  },
+  "52": {
+    "lat": 52.223963299999994,
+    "lon": 21.0188727,
+    "address": "Raiffeisen Business Centre, 20, Pi\u0119kna, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-549, Polska"
+  },
+  "53": {
+    "lat": 52.219766,
+    "lon": 21.0210358,
+    "address": "9, Aleja Wyzwolenia, Latawiec, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-572, Polska"
+  },
+  "54": {
+    "lat": 52.2269539,
+    "lon": 21.0077754,
+    "address": "12, \u015awi\u0119tej Barbary, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-686, Polska"
+  },
+  "55": {
+    "lat": 52.253579599999995,
+    "lon": 21.022140699999998,
+    "address": "Wybrze\u017ce Helskie, Praga I, Nowa Praga, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-459, Polska"
+  },
+  "56": {
+    "lat": 52.2272355,
+    "lon": 21.006688,
+    "address": "Nowogrodzka, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-697, Polska"
+  },
+  "57": {
+    "lat": 52.2317088,
+    "lon": 20.989883499999998,
+    "address": "Stanis\u0142awa Wernera, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-837, Polska"
+  },
+  "58": {
+    "lat": 52.2394969,
+    "lon": 21.000562,
+    "address": "ZTP Ptasia, Plac Wielopole, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-136, Polska"
+  },
+  "59": {
+    "lat": 52.233212599999995,
+    "lon": 21.000334799999997,
+    "address": "1, Rondo ONZ, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-828, Polska"
+  },
+  "60": {
+    "lat": 52.2231124,
+    "lon": 20.986169,
+    "address": "Gr\u00f3jecka, Stara Ochota, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-019, Polska"
+  },
+  "61": {
+    "lat": 52.227320199999994,
+    "lon": 20.9976457,
+    "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-001, Polska"
+  },
+  "62": {
+    "lat": 52.202295899999996,
+    "lon": 21.0237667,
+    "address": "Prima, 67, Pu\u0142awska, Stary Mokot\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-592, Polska"
+  },
+  "63": {
+    "lat": 52.231397099999995,
+    "lon": 21.0098649,
+    "address": "Marsza\u0142kowska, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-017, Polska"
+  },
+  "64": {
+    "lat": 52.234224999999995,
+    "lon": 20.987244999999998,
+    "address": "Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-845, Polska"
+  },
+  "65": {
+    "lat": 52.2425116,
+    "lon": 21.0111524,
+    "address": "Plac marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-078, Polska"
+  },
+  "66": {
+    "lat": 52.2432161,
+    "lon": 20.978636899999998,
+    "address": "Dzielna, Muran\u00f3w Zachodni, Nowolipki, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-029, Polska"
+  },
+  "67": {
+    "lat": 52.212903,
+    "lon": 21.018881999999998,
+    "address": "Tadeusza Boya-\u017bele\u0144skiego, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-621, Polska"
+  },
+  "68": {
+    "lat": 52.2152586,
+    "lon": 20.9953465,
+    "address": "Ondraszka, Kolonia Lubeckiego, Filtry, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-067, Polska"
+  },
+  "69": {
+    "lat": 52.2300531,
+    "lon": 21.0207117,
+    "address": "Mysia, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-501, Polska"
+  },
+  "70": {
+    "lat": 52.1958747,
+    "lon": 20.9589499,
+    "address": "Premiere, 285B, Aleja Krakowska, Rak\u00f3w, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-133, Polska"
+  },
+  "71": {
+    "lat": 52.2280689,
+    "lon": 20.999442,
+    "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-001, Polska"
+  },
+  "72": {
+    "lat": 52.212083,
+    "lon": 20.9536153,
+    "address": "Opaczewska, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-204, Polska"
+  },
+  "73": {
+    "lat": 52.228753,
+    "lon": 20.9995039,
+    "address": "Varso I, 71, Chmielna, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-801, Polska"
+  },
+  "74": {
+    "lat": 52.234517999999994,
+    "lon": 20.999389,
+    "address": "Twarda, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-114, Polska"
+  },
+  "75": {
+    "lat": 52.242440699999996,
+    "lon": 21.0795413,
+    "address": "34, Grenadier\u00f3w, Groch\u00f3w-Kinowa, Groch\u00f3w, Praga-Po\u0142udnie, Warszawa, wojew\u00f3dztwo mazowieckie, 04-073, Polska"
+  },
+  "76": {
+    "lat": 52.213907999999996,
+    "lon": 20.956128,
+    "address": "7, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-335, Polska"
+  },
+  "77": {
+    "lat": 52.2205206,
+    "lon": 21.0232267,
+    "address": "6, Koszykowa, Latawiec, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-564, Polska"
+  },
+  "78": {
+    "lat": 52.2357898,
+    "lon": 21.0135221,
+    "address": "Plac Powsta\u0144c\u00f3w Warszawy, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-039, Polska"
+  },
+  "79": {
+    "lat": 52.221598799999995,
+    "lon": 21.041171199999997,
+    "address": "Torwar, Most \u0141azienkowski, Cypel Czerniakowski, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-443, Polska"
+  },
+  "80": {
+    "lat": 52.239937999999995,
+    "lon": 20.902106999999997,
+    "address": "G\u00f3rczewska, Nowe G\u00f3rce, G\u00f3rce, Bemowo, Warszawa, wojew\u00f3dztwo mazowieckie, 01-471, Polska"
+  },
+  "81": {
+    "lat": 52.2223444,
+    "lon": 20.922556699999998,
+    "address": "P+R Po\u0142czy\u0144ska, Po\u0142czy\u0144ska, Jelonki Po\u0142udniowe, Bemowo, Warszawa, wojew\u00f3dztwo mazowieckie, 01-378, Polska"
+  },
+  "82": {
+    "lat": 52.260665599999996,
+    "lon": 21.0261255,
+    "address": "W\u0142adys\u0142awa Skoczylasa, Praga II, Nowa Praga, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-465, Polska"
+  },
+  "83": {
+    "lat": 52.2444676,
+    "lon": 21.0456491,
+    "address": "Ryszarda Siwca, Kamionek, Praga-Po\u0142udnie, Warszawa, wojew\u00f3dztwo mazowieckie, 03-724, Polska"
+  },
+  "84": {
+    "lat": 52.235081,
+    "lon": 20.981742,
+    "address": "Krochmalna, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-869, Polska"
+  },
+  "85": {
+    "lat": 52.2408253,
+    "lon": 21.0267132,
+    "address": "1A, Leszczy\u0144ska, Mariensztat, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-339, Polska"
+  },
+  "86": {
+    "lat": 52.2259998,
+    "lon": 21.0192124,
+    "address": "Krucza Cocktail Bar, 16/22, Krucza, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-526, Polska"
+  },
+  "87": {
+    "lat": 52.227704599999996,
+    "lon": 21.0188561,
+    "address": "Mercure Warszawa Grand, 28, Krucza, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-522, Polska"
+  },
+  "88": {
+    "lat": 52.230225,
+    "lon": 21.020974,
+    "address": "Mysia, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-501, Polska"
+  },
+  "89": {
+    "lat": 52.227546999999994,
+    "lon": 20.998648,
+    "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-001, Polska"
+  },
+  "90": {
+    "lat": 52.162366999999996,
+    "lon": 21.0439374,
+    "address": "Szko\u0142a G\u0142\u00f3wna Gospodarstwa Wiejskiego, Jana Ciszewskiego, Wysoki Ursyn\u00f3w, Ursyn\u00f3w Centrum, Ursyn\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-776, Polska"
+  },
+  "91": {
+    "lat": 52.2445017,
+    "lon": 21.0213133,
+    "address": "Szpital Kliniczny im. ks. Anny Mazowieckiej, Wybrze\u017ce Ko\u015bciuszkowskie, Mariensztat, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-314, Polska"
+  },
+  "92": {
+    "lat": 52.2299302,
+    "lon": 20.9954873,
+    "address": "Sienna, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-833, Polska"
+  },
+  "93": {
+    "lat": 52.2115047,
+    "lon": 20.9582049,
+    "address": "5A, Aleja Bohater\u00f3w Wrze\u015bnia, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-389, Polska"
+  },
+  "94": {
+    "lat": 52.229880099999995,
+    "lon": 20.9961068,
+    "address": "72, Z\u0142ota, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-821, Polska"
+  },
+  "95": {
+    "lat": 52.226726899999996,
+    "lon": 21.0157645,
+    "address": "ZTP Ho\u017ca, Ho\u017ca, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-521, Polska"
+  },
+  "96": {
+    "lat": 52.2128665,
+    "lon": 21.0541251,
+    "address": "26, Bartycka, Osiedle Siekierki, Czerniak\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 00-716, Polska"
+  },
+  "97": {
+    "lat": 52.240078999999994,
+    "lon": 21.0285445,
+    "address": "2B, Zaj\u0119cza, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-351, Polska"
+  },
+  "98": {
+    "lat": 52.258081999999995,
+    "lon": 20.9825992,
+    "address": "Westfield Arkadia, 82, Aleja Jana Paw\u0142a II, Osiedle Stawki, Muran\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-175, Polska"
+  },
+  "99": {
+    "lat": 52.2352017,
+    "lon": 20.9854321,
+    "address": "Crazy Butcher, 61, Krochmalna, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-870, Polska"
+  },
+  "100": {
+    "lat": 52.1929811,
+    "lon": 20.973370499999998,
+    "address": "technikadruku.pl, 27, 1 Sierpnia, Jadwisin, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-134, Polska"
+  },
+  "101": {
+    "lat": 52.1691231,
+    "lon": 20.9760514,
+    "address": "P4, \u017bwirki i Wigury, Nowy S\u0142u\u017cewiec, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-159, Polska"
+  },
+  "102": {
+    "lat": 52.248835299999996,
+    "lon": 20.9935829,
+    "address": "Mordechaja Anielewicza, Muran\u00f3w P\u00f3\u0142nocny, Muran\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-161, Polska"
+  },
+  "103": {
+    "lat": 52.254120799999995,
+    "lon": 20.998674599999998,
+    "address": "Ibis Warszawa Stare Miasto, 2, Muranowska, Osiedle Prezydenckie, Muran\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-209, Polska"
+  },
+  "104": {
+    "lat": 52.212159,
+    "lon": 20.953702999999997,
+    "address": "Opaczewska, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-204, Polska"
+  },
+  "105": {
+    "lat": 52.233277,
+    "lon": 21.0772056,
+    "address": "Brac\u0142awska, Przycz\u00f3\u0142ek Grochowski, Goc\u0142aw, Praga-Po\u0142udnie, Warszawa, wojew\u00f3dztwo mazowieckie, 04-044, Polska"
+  },
+  "106": {
+    "lat": 52.249697399999995,
+    "lon": 21.0514032,
+    "address": "Lubelska, Kamionek, Praga-Po\u0142udnie, Warszawa, wojew\u00f3dztwo mazowieckie, 03-802, Polska"
+  },
+  "107": {
+    "lat": 52.185193899999994,
+    "lon": 20.9550244,
+    "address": "Komitetu Obrony Robotnik\u00f3w, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-178, Polska"
+  },
+  "108": {
+    "lat": 52.2185006,
+    "lon": 21.0462535,
+    "address": "Port Czerniakowski, Most \u0141azienkowski, Cypel Czerniakowski, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-449, Polska"
+  },
+  "109": {
+    "lat": 52.227135499999996,
+    "lon": 20.9957243,
+    "address": "16, \u017belazna, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-802, Polska"
+  },
+  "110": {
+    "lat": 52.225630699999996,
+    "lon": 21.1804712,
+    "address": "Linia Parkingowa, Marysin Wawerski Po\u0142udniowy, Marysin Wawerski, Wawer, Warszawa, wojew\u00f3dztwo mazowieckie, 04-630, Polska"
+  },
+  "111": {
+    "lat": 52.1730143,
+    "lon": 20.9945579,
+    "address": "Post\u0119pu, Osiedle S\u0142u\u017cewiec Po\u0142udniowy, S\u0142u\u017cewiec, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-677, Polska"
+  },
+  "112": {
+    "lat": 52.224622399999994,
+    "lon": 21.0119279,
+    "address": "Antique, 11, Pozna\u0144ska, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-680, Polska"
+  },
+  "113": {
+    "lat": 52.2303894,
+    "lon": 21.0318362,
+    "address": "2, Leona Kruczkowskiego, Solec, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-412, Polska"
+  },
+  "114": {
+    "lat": 52.1837361,
+    "lon": 21.0213449,
+    "address": "Domaniewska, Osiedle Domaniewska, Ksawer\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-663, Polska"
+  },
+  "115": {
+    "lat": 52.283778399999996,
+    "lon": 20.9792247,
+    "address": "Gwia\u017adzista, Marymont-Ruda, Bielany, Warszawa, wojew\u00f3dztwo mazowieckie, 01-651, Polska"
+  },
+  "116": {
+    "lat": 52.2316146,
+    "lon": 20.9787158,
+    "address": "Wola Center, 33, Przyokopowa, Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-208, Polska"
+  },
+  "117": {
+    "lat": 52.2306214,
+    "lon": 21.0372084,
+    "address": "Okr\u0105g, Solec, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-421, Polska"
+  },
+  "118": {
+    "lat": 52.190019299999996,
+    "lon": 20.9596906,
+    "address": "Saba\u0142y, Jadwisin, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-165, Polska"
+  },
+  "119": {
+    "lat": 52.2397157,
+    "lon": 21.0017084,
+    "address": "ZTP Plac \u017belaznej Bramy, Ptasia, Za \u017belazn\u0105 Bram\u0105, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-136, Polska"
+  },
+  "120": {
+    "lat": 52.2277123,
+    "lon": 21.0187724,
+    "address": "Mercure Warszawa Grand, 28, Krucza, Marsza\u0142kowska Dzielnica Mieszkaniowa, \u015ar\u00f3dmie\u015bcie Po\u0142udniowe, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-522, Polska"
+  },
+  "121": {
+    "lat": 52.1462788,
+    "lon": 20.996228199999997,
+    "address": "Pl\u0105sy, Zielony Ursyn\u00f3w, Wycz\u00f3\u0142ki, Ursyn\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-826, Polska"
+  },
+  "122": {
+    "lat": 52.243813599999996,
+    "lon": 20.9652164,
+    "address": "4, Zawiszy, Kolonia Wawelberga, M\u0142yn\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-167, Polska"
+  },
+  "123": {
+    "lat": 52.230487,
+    "lon": 21.0071372,
+    "address": "Pasa\u017c Zuzanny Ginczanki, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-001, Polska"
+  },
+  "124": {
+    "lat": 52.190918499999995,
+    "lon": 20.947031,
+    "address": "Orzechowa, Rak\u00f3w, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-244, Polska"
+  },
+  "125": {
+    "lat": 52.222249299999994,
+    "lon": 21.039431399999998,
+    "address": "\u0141azienkowska, Cypel Czerniakowski, Ujazd\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-449, Polska"
+  },
+  "126": {
+    "lat": 52.2320862,
+    "lon": 20.9759584,
+    "address": "Siedmiogrodzka, Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-204, Polska"
+  },
+  "127": {
+    "lat": 52.240271,
+    "lon": 21.027509,
+    "address": "Weekday, Leszczy\u0144ska, Mariensztat, Powi\u015ble, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-339, Polska"
+  },
+  "128": {
+    "lat": 52.184238099999995,
+    "lon": 20.9507633,
+    "address": "6, Materii, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-258, Polska"
+  },
+  "129": {
+    "lat": 52.211749,
+    "lon": 21.0492992,
+    "address": "Biedronka, 183, Bartycka, Osiedle Siekierki, Czerniak\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 00-720, Polska"
+  },
+  "130": {
+    "lat": 52.2544426,
+    "lon": 21.0509795,
+    "address": "Osiedle Kijowska, Szmulowizna, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-740, Polska"
+  },
+  "131": {
+    "lat": 52.1851591,
+    "lon": 20.9415592,
+    "address": "49, Leonidasa, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-239, Polska"
+  },
+  "132": {
+    "lat": 52.2094424,
+    "lon": 20.950577799999998,
+    "address": "Kostka Design, 185, Aleje Jerozolimskie, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-222, Polska"
+  },
+  "133": {
+    "lat": 52.2457767,
+    "lon": 21.0027421,
+    "address": "Abra Studio, 44/50, D\u0142uga, Muran\u00f3w II, Muran\u00f3w, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-241, Polska"
+  },
+  "134": {
+    "lat": 52.2325808,
+    "lon": 20.9894925,
+    "address": "Stanis\u0142awa Wernera, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-845, Polska"
+  },
+  "135": {
+    "lat": 52.2323758,
+    "lon": 20.990912299999998,
+    "address": "Teodora Wernera, Mir\u00f3w, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-841, Polska"
+  },
+  "136": {
+    "lat": 52.1807582,
+    "lon": 20.9785462,
+    "address": "Hotel Sangate (w trakcie rozbi\u00f3rki), 32, Komitetu Obrony Robotnik\u00f3w, Ok\u0119cie, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-148, Polska"
+  },
+  "137": {
+    "lat": 52.229790799999996,
+    "lon": 20.9778655,
+    "address": "2, Marcina Kasprzaka, Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-211, Polska"
+  },
+  "138": {
+    "lat": 52.24746,
+    "lon": 21.0168391,
+    "address": "Grodzka, Stare Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-303, Polska"
+  },
+  "139": {
+    "lat": 52.2899937,
+    "lon": 20.927791799999998,
+    "address": "P+R Metro M\u0142ociny, Tomasza Nocznickiego, Huta, Bielany, Warszawa, wojew\u00f3dztwo mazowieckie, 01-948, Polska"
+  },
+  "140": {
+    "lat": 52.2119638,
+    "lon": 20.9495595,
+    "address": "Ko\u0142omyjska, Szcz\u0119\u015bliwice, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-337, Polska"
+  },
+  "141": {
+    "lat": 52.2550129,
+    "lon": 21.037776299999997,
+    "address": "Galeria Wile\u0144ska, 72, Targowa, Stara Praga, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-729, Polska"
+  },
+  "142": {
+    "lat": 52.270091099999995,
+    "lon": 21.0166453,
+    "address": "55A, Jagiello\u0144ska, Gol\u0119dzin\u00f3w, Pelcowizna, Praga-P\u00f3\u0142noc, Warszawa, wojew\u00f3dztwo mazowieckie, 03-301, Polska"
+  },
+  "143": {
+    "lat": 52.190416,
+    "lon": 20.9876805,
+    "address": "78A, Jana Paw\u0142a Woronicza, Wygl\u0119d\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-640, Polska"
+  },
+  "144": {
+    "lat": 52.2585534,
+    "lon": 20.9963895,
+    "address": "Kiss and Ride, Zygmunta S\u0142omi\u0144skiego, Nowe Miasto, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-204, Polska"
+  },
+  "145": {
+    "lat": 52.207810099999996,
+    "lon": 20.984883999999997,
+    "address": "Uniwersyteckie Centrum Kliniczne WUM, 1A, Stefana Banacha, Osiedle Szosa Krakowska, Rakowiec, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-097, Polska"
+  },
+  "146": {
+    "lat": 52.1752135,
+    "lon": 20.9422733,
+    "address": "89, Aleja Krakowska, Za\u0142uski, W\u0142ochy, Warszawa, wojew\u00f3dztwo mazowieckie, 02-180, Polska"
+  },
+  "147": {
+    "lat": 52.232629499999994,
+    "lon": 20.9795232,
+    "address": "Krajowa Izba Doradc\u00f3w Podatkowych, 85, Grzybowska, Czyste, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 00-869, Polska"
+  },
+  "148": {
+    "lat": 52.2242001,
+    "lon": 20.9875007,
+    "address": "Aleje Jerozolimskie, Stara Ochota, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-304, Polska"
+  },
+  "149": {
+    "lat": 52.2099927,
+    "lon": 20.9843253,
+    "address": "Jana Nielubowicza, Rakowiec, Ochota, Warszawa, wojew\u00f3dztwo mazowieckie, 02-097, Polska"
+  },
+  "150": {
+    "lat": 52.223720699999994,
+    "lon": 20.9572272,
+    "address": "81A/1A, Aleja Prymasa Tysi\u0105clecia, Odolany, Wola, Warszawa, wojew\u00f3dztwo mazowieckie, 01-242, Polska"
+  },
+  "151": {
+    "lat": 52.2483742,
+    "lon": 21.06699,
+    "address": "Uniwersytet SWPS, 19/31, Chodakowska, Kamionek, Praga-Po\u0142udnie, Warszawa, wojew\u00f3dztwo mazowieckie, 03-815, Polska"
+  },
+  "152": {
+    "lat": 52.1613986,
+    "lon": 21.0886766,
+    "address": "6, Stanis\u0142awa Kostki Potockiego, Wilan\u00f3w Kr\u00f3lewski, Wilan\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-958, Polska"
+  },
+  "153": {
+    "lat": 52.1818761,
+    "lon": 21.0062024,
+    "address": "TTW Opex, 37B, Domaniewska, Osiedle Domaniewska, Ksawer\u00f3w, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-672, Polska"
+  },
+  "154": {
+    "lat": 52.177956099999996,
+    "lon": 21.0179613,
+    "address": "45, \u015awieradowska, Zago\u015bciniec, S\u0142u\u017cew, Mokot\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-662, Polska"
+  }
+}

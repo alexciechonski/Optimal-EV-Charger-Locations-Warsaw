@@ -1,0 +1,1234 @@
+{
+    "1": {
+        "lat": 52.2415039,
+        "lon": 21.0147898,
+        "sum_chargers": 66380.9706205298,
+        "num_chargers": 34,
+        "num_roads": 95,
+        "address": "Generała Michała Tokarzewskiego-Karaszewicza, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-072, Polska"
+    },
+    "2": {
+        "lat": 52.2302963,
+        "lon": 21.020282899999998,
+        "sum_chargers": 71323.38427125584,
+        "num_chargers": 32,
+        "num_roads": 85,
+        "address": "Liberty Corner, 5, Mysia, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-496, Polska"
+    },
+    "3": {
+        "lat": 52.24746,
+        "lon": 21.0120452,
+        "sum_chargers": 74412.95050434434,
+        "num_chargers": 35,
+        "num_roads": 87,
+        "address": "3, Podwale, Stare Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-252, Polska"
+    },
+    "4": {
+        "lat": 52.2296756,
+        "lon": 21.012228699999998,
+        "sum_chargers": 64667.521377081655,
+        "num_chargers": 32,
+        "num_roads": 91,
+        "address": "Rondo Romana Dmowskiego, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-510, Polska"
+    },
+    "5": {
+        "lat": 52.235115,
+        "lon": 21.011443,
+        "sum_chargers": 57172.608279595144,
+        "num_chargers": 32,
+        "num_roads": 93,
+        "address": "Jasna, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-049, Polska"
+    },
+    "6": {
+        "lat": 52.2326231,
+        "lon": 21.0213114,
+        "sum_chargers": 73131.41465790338,
+        "num_chargers": 33,
+        "num_roads": 84,
+        "address": "Indigo, 40, Smolna, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-375, Polska"
+    },
+    "7": {
+        "lat": 52.2297485,
+        "lon": 20.9838429,
+        "sum_chargers": 46738.830114107855,
+        "num_chargers": 28,
+        "num_roads": 80,
+        "address": "Prosta, Czyste, Wola, Warszawa, województwo mazowieckie, 00-838, Polska"
+    },
+    "8": {
+        "lat": 52.233232,
+        "lon": 21.001077,
+        "sum_chargers": 52537.93097390696,
+        "num_chargers": 32,
+        "num_roads": 95,
+        "address": "Mariańska, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-123, Polska"
+    },
+    "9": {
+        "lat": 52.231845,
+        "lon": 21.0093641,
+        "sum_chargers": 58766.69875584996,
+        "num_chargers": 32,
+        "num_roads": 92,
+        "address": "Marszałkowska, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-017, Polska"
+    },
+    "10": {
+        "lat": 52.2469445,
+        "lon": 20.97939,
+        "sum_chargers": 71487.53737460819,
+        "num_chargers": 32,
+        "num_roads": 83,
+        "address": "Dom mody Klif, 58/72, Okopowa, Muranów Zachodni, Nowolipki, Wola, Warszawa, województwo mazowieckie, 01-042, Polska"
+    },
+    "11": {
+        "lat": 52.237727299999996,
+        "lon": 21.003544899999998,
+        "sum_chargers": 55239.64136832959,
+        "num_chargers": 33,
+        "num_roads": 94,
+        "address": "18, Królewska, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-103, Polska"
+    },
+    "12": {
+        "lat": 52.2333278,
+        "lon": 21.0196206,
+        "sum_chargers": 70494.60999002645,
+        "num_chargers": 33,
+        "num_roads": 90,
+        "address": "Cava, 30, Nowy Świat, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-373, Polska"
+    },
+    "13": {
+        "lat": 52.1647032,
+        "lon": 20.9988636,
+        "sum_chargers": 57862.8771825216,
+        "num_chargers": 25,
+        "num_roads": 46,
+        "address": "33C, Taborowa, Zielony Ursynów, Wyczółki, Ursynów, Warszawa, województwo mazowieckie, 02-699, Polska"
+    },
+    "14": {
+        "lat": 52.233680199999995,
+        "lon": 21.0020567,
+        "sum_chargers": 52259.81473291817,
+        "num_chargers": 32,
+        "num_roads": 95,
+        "address": "Warszawskie Centrum Finansowe, 53, Emilii Plater, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-113, Polska"
+    },
+    "15": {
+        "lat": 52.219699999999996,
+        "lon": 21.0301555,
+        "sum_chargers": 73710.09044234364,
+        "num_chargers": 25,
+        "num_roads": 78,
+        "address": "Zamek Ujazdowski, 2, Jazdów, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-467, Polska"
+    },
+    "16": {
+        "lat": 52.198705,
+        "lon": 20.9175683,
+        "sum_chargers": 33458.96114176158,
+        "num_chargers": 12,
+        "num_roads": 28,
+        "address": "Kleszczowa, Solipse, Stare Włochy, Włochy, Warszawa, województwo mazowieckie, 02-485, Polska"
+    },
+    "17": {
+        "lat": 52.227992199999996,
+        "lon": 20.9874479,
+        "sum_chargers": 43333.14412708387,
+        "num_chargers": 27,
+        "num_roads": 81,
+        "address": "Towarowa, Mirów, Wola, Warszawa, województwo mazowieckie, 00-839, Polska"
+    },
+    "18": {
+        "lat": 52.2307152,
+        "lon": 21.0067418,
+        "sum_chargers": 58623.26952957297,
+        "num_chargers": 32,
+        "num_roads": 92,
+        "address": "Pasaż Zuzanny Ginczanki, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-001, Polska"
+    },
+    "19": {
+        "lat": 52.2274739,
+        "lon": 21.0175178,
+        "sum_chargers": 69628.69063274487,
+        "num_chargers": 31,
+        "num_roads": 82,
+        "address": "Lokal Vegan Bistro, 23/31, Krucza, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-525, Polska"
+    },
+    "20": {
+        "lat": 52.242373099999995,
+        "lon": 21.0120474,
+        "sum_chargers": 64886.88531384796,
+        "num_chargers": 34,
+        "num_roads": 96,
+        "address": "Plac marszałka Józefa Piłsudskiego, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-073, Polska"
+    },
+    "21": {
+        "lat": 52.2297376,
+        "lon": 21.0233492,
+        "sum_chargers": 71257.14229717746,
+        "num_chargers": 31,
+        "num_roads": 85,
+        "address": "21, Książęca, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-498, Polska"
+    },
+    "22": {
+        "lat": 52.2112608,
+        "lon": 21.032097,
+        "sum_chargers": 82258.20038410083,
+        "num_chargers": 24,
+        "num_roads": 78,
+        "address": "Aleja Chińska, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-746, Polska"
+    },
+    "23": {
+        "lat": 52.233188899999995,
+        "lon": 21.025544099999998,
+        "sum_chargers": 73345.9791129696,
+        "num_chargers": 32,
+        "num_roads": 90,
+        "address": "Smolna, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-375, Polska"
+    },
+    "24": {
+        "lat": 52.2548593,
+        "lon": 21.004700399999997,
+        "sum_chargers": 82468.2188246377,
+        "num_chargers": 34,
+        "num_roads": 82,
+        "address": "Wójtowska, Nowe Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-224, Polska"
+    },
+    "25": {
+        "lat": 52.2277462,
+        "lon": 21.0218381,
+        "sum_chargers": 69232.92340494606,
+        "num_chargers": 30,
+        "num_roads": 81,
+        "address": "1A, Hoża, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-528, Polska"
+    },
+    "26": {
+        "lat": 52.240745499999996,
+        "lon": 21.0287102,
+        "sum_chargers": 75635.48491821505,
+        "num_chargers": 33,
+        "num_roads": 89,
+        "address": "43B, Wybrzeże Kościuszkowskie, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-347, Polska"
+    },
+    "27": {
+        "lat": 52.2514968,
+        "lon": 21.014492999999998,
+        "sum_chargers": 81902.63023804613,
+        "num_chargers": 35,
+        "num_roads": 86,
+        "address": "ZTP Bugaj, Wybrzeże Gdańskie, Stare Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-285, Polska"
+    },
+    "28": {
+        "lat": 52.232289699999995,
+        "lon": 20.9842172,
+        "sum_chargers": 43409.079148911296,
+        "num_chargers": 28,
+        "num_roads": 77,
+        "address": "Warsaw Spire, 1, Plac Europejski, Mirów, Wola, Warszawa, województwo mazowieckie, 00-844, Polska"
+    },
+    "29": {
+        "lat": 52.252226099999994,
+        "lon": 21.007324,
+        "sum_chargers": 81195.4681283126,
+        "num_chargers": 35,
+        "num_roads": 87,
+        "address": "Koźla, Nowe Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-234, Polska"
+    },
+    "30": {
+        "lat": 52.2064722,
+        "lon": 20.9566399,
+        "sum_chargers": 71248.70770444768,
+        "num_chargers": 23,
+        "num_roads": 67,
+        "address": "Ośrodek sportowy Górka Szczęśliwicka, 22, Drawska, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-202, Polska"
+    },
+    "31": {
+        "lat": 52.2390103,
+        "lon": 21.0033919,
+        "sum_chargers": 55437.091174283305,
+        "num_chargers": 33,
+        "num_roads": 95,
+        "address": "Graniczna, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-130, Polska"
+    },
+    "32": {
+        "lat": 52.2209284,
+        "lon": 21.036654499999997,
+        "sum_chargers": 86405.27686320661,
+        "num_chargers": 27,
+        "num_roads": 75,
+        "address": "ZTP Myśliwiecka, Myśliwiecka, Cypel Czerniakowski, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-451, Polska"
+    },
+    "33": {
+        "lat": 52.249070499999995,
+        "lon": 21.0049864,
+        "sum_chargers": 71006.4784219348,
+        "num_chargers": 34,
+        "num_roads": 87,
+        "address": "Plac Krasińskich, Nowe Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-207, Polska"
+    },
+    "34": {
+        "lat": 52.2412589,
+        "lon": 21.0284569,
+        "sum_chargers": 75189.70558778143,
+        "num_chargers": 33,
+        "num_roads": 89,
+        "address": "Parking pod Centrum Nauki \"Kopernik\", Wybrzeże Kościuszkowskie, Mariensztat, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-390, Polska"
+    },
+    "35": {
+        "lat": 52.2353065,
+        "lon": 20.9760998,
+        "sum_chargers": 47075.32795291375,
+        "num_chargers": 27,
+        "num_roads": 81,
+        "address": "Aleja \"Solidarności\", Czyste, Wola, Warszawa, województwo mazowieckie, 01-201, Polska"
+    },
+    "36": {
+        "lat": 52.227337,
+        "lon": 21.004576999999998,
+        "sum_chargers": 48145.14576646018,
+        "num_chargers": 28,
+        "num_roads": 87,
+        "address": "Centrum LIM, 65/79, Aleje Jerozolimskie, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-697, Polska"
+    },
+    "37": {
+        "lat": 52.2331534,
+        "lon": 21.0001701,
+        "sum_chargers": 44556.941500959736,
+        "num_chargers": 30,
+        "num_roads": 93,
+        "address": "Zdrofit, 1, Rondo ONZ, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-828, Polska"
+    },
+    "38": {
+        "lat": 52.2602094,
+        "lon": 21.0242818,
+        "sum_chargers": 86057.64269443104,
+        "num_chargers": 31,
+        "num_roads": 69,
+        "address": "Józefa Szanajcy, Praga III, Nowa Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-468, Polska"
+    },
+    "39": {
+        "lat": 52.2452993,
+        "lon": 21.019334,
+        "sum_chargers": 72242.55509830739,
+        "num_chargers": 34,
+        "num_roads": 86,
+        "address": "Bednarska, Mariensztat, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-310, Polska"
+    },
+    "40": {
+        "lat": 52.233176799999995,
+        "lon": 21.011885799999998,
+        "sum_chargers": 59256.238228750844,
+        "num_chargers": 32,
+        "num_roads": 94,
+        "address": "9, Zgoda, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-018, Polska"
+    },
+    "41": {
+        "lat": 52.2340921,
+        "lon": 20.9996981,
+        "sum_chargers": 47560.48545634919,
+        "num_chargers": 31,
+        "num_roads": 93,
+        "address": "Twarda, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-114, Polska"
+    },
+    "42": {
+        "lat": 52.2287143,
+        "lon": 21.014137299999998,
+        "sum_chargers": 68142.68386522417,
+        "num_chargers": 32,
+        "num_roads": 89,
+        "address": "27, Nowogrodzka, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-511, Polska"
+    },
+    "43": {
+        "lat": 52.212469,
+        "lon": 20.954204999999998,
+        "sum_chargers": 73261.80835460557,
+        "num_chargers": 23,
+        "num_roads": 69,
+        "address": "Blue City, 179, Aleje Jerozolimskie, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-222, Polska"
+    },
+    "44": {
+        "lat": 52.2246418,
+        "lon": 21.0069373,
+        "sum_chargers": 55532.855810861205,
+        "num_chargers": 28,
+        "num_roads": 86,
+        "address": "84, Hoża, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-928, Polska"
+    },
+    "45": {
+        "lat": 52.227059999999994,
+        "lon": 21.003724,
+        "sum_chargers": 48284.867654630536,
+        "num_chargers": 28,
+        "num_roads": 87,
+        "address": "Nowogrodzka, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-698, Polska"
+    },
+    "46": {
+        "lat": 52.223144999999995,
+        "lon": 21.006652799999998,
+        "sum_chargers": 46725.134156839675,
+        "num_chargers": 25,
+        "num_roads": 84,
+        "address": "74, Wilcza, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-670, Polska"
+    },
+    "47": {
+        "lat": 52.208354899999996,
+        "lon": 20.975818999999998,
+        "sum_chargers": 100722.1221631307,
+        "num_chargers": 33,
+        "num_roads": 69,
+        "address": "Zieleniak, 97, Grójecka, Osiedle Szosa Krakowska, Rakowiec, Ochota, Warszawa, województwo mazowieckie, 02-101, Polska"
+    },
+    "48": {
+        "lat": 52.2565441,
+        "lon": 21.0074139,
+        "sum_chargers": 90487.9029360568,
+        "num_chargers": 35,
+        "num_roads": 79,
+        "address": "Romana Sanguszki, Nowe Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-222, Polska"
+    },
+    "49": {
+        "lat": 52.253082199999994,
+        "lon": 21.0316686,
+        "sum_chargers": 81412.91108349248,
+        "num_chargers": 32,
+        "num_roads": 77,
+        "address": "Aleja \"Solidarności\", Port Praski, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-402, Polska"
+    },
+    "50": {
+        "lat": 52.2159896,
+        "lon": 20.9582853,
+        "sum_chargers": 84553.43767902021,
+        "num_chargers": 27,
+        "num_roads": 66,
+        "address": "Stacja obsługi taboru PKS Polonus, 144A, Aleje Jerozolimskie, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-335, Polska"
+    },
+    "51": {
+        "lat": 52.2475411,
+        "lon": 20.979665,
+        "sum_chargers": 71957.54787989412,
+        "num_chargers": 32,
+        "num_roads": 82,
+        "address": "Okopowa, Muranów Zachodni, Nowolipki, Wola, Warszawa, województwo mazowieckie, 01-042, Polska"
+    },
+    "52": {
+        "lat": 52.223963299999994,
+        "lon": 21.0188727,
+        "sum_chargers": 74096.12548267869,
+        "num_chargers": 30,
+        "num_roads": 78,
+        "address": "Raiffeisen Business Centre, 20, Piękna, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-549, Polska"
+    },
+    "53": {
+        "lat": 52.219766,
+        "lon": 21.0210358,
+        "sum_chargers": 68614.62662399435,
+        "num_chargers": 26,
+        "num_roads": 73,
+        "address": "9, Aleja Wyzwolenia, Latawiec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-572, Polska"
+    },
+    "54": {
+        "lat": 52.2269539,
+        "lon": 21.0077754,
+        "sum_chargers": 55020.749393252714,
+        "num_chargers": 29,
+        "num_roads": 87,
+        "address": "12, Świętej Barbary, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-686, Polska"
+    },
+    "55": {
+        "lat": 52.253579599999995,
+        "lon": 21.022140699999998,
+        "sum_chargers": 85206.39155761663,
+        "num_chargers": 34,
+        "num_roads": 76,
+        "address": "Wybrzeże Helskie, Praga I, Nowa Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-459, Polska"
+    },
+    "56": {
+        "lat": 52.2272355,
+        "lon": 21.006688,
+        "sum_chargers": 49669.5866504868,
+        "num_chargers": 28,
+        "num_roads": 88,
+        "address": "Nowogrodzka, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-697, Polska"
+    },
+    "57": {
+        "lat": 52.2317088,
+        "lon": 20.989883499999998,
+        "sum_chargers": 36512.19223889388,
+        "num_chargers": 27,
+        "num_roads": 82,
+        "address": "Stanisława Wernera, Mirów, Wola, Warszawa, województwo mazowieckie, 00-837, Polska"
+    },
+    "58": {
+        "lat": 52.2394969,
+        "lon": 21.000562,
+        "sum_chargers": 55203.6792779684,
+        "num_chargers": 33,
+        "num_roads": 97,
+        "address": "ZTP Ptasia, Plac Wielopole, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-136, Polska"
+    },
+    "59": {
+        "lat": 52.233212599999995,
+        "lon": 21.000334799999997,
+        "sum_chargers": 44504.76056300934,
+        "num_chargers": 30,
+        "num_roads": 94,
+        "address": "1, Rondo ONZ, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-828, Polska"
+    },
+    "60": {
+        "lat": 52.2231124,
+        "lon": 20.986169,
+        "sum_chargers": 54059.176843758556,
+        "num_chargers": 27,
+        "num_roads": 74,
+        "address": "Grójecka, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-019, Polska"
+    },
+    "61": {
+        "lat": 52.227320199999994,
+        "lon": 20.9976457,
+        "sum_chargers": 45967.41824330946,
+        "num_chargers": 28,
+        "num_roads": 86,
+        "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-001, Polska"
+    },
+    "62": {
+        "lat": 52.202295899999996,
+        "lon": 21.0237667,
+        "sum_chargers": 64319.09541075234,
+        "num_chargers": 21,
+        "num_roads": 79,
+        "address": "Prima, 67, Puławska, Stary Mokotów, Mokotów, Warszawa, województwo mazowieckie, 02-592, Polska"
+    },
+    "63": {
+        "lat": 52.231397099999995,
+        "lon": 21.0098649,
+        "sum_chargers": 59812.569946212454,
+        "num_chargers": 32,
+        "num_roads": 92,
+        "address": "Marszałkowska, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-017, Polska"
+    },
+    "64": {
+        "lat": 52.234224999999995,
+        "lon": 20.987244999999998,
+        "sum_chargers": 36184.128181861204,
+        "num_chargers": 27,
+        "num_roads": 87,
+        "address": "Mirów, Wola, Warszawa, województwo mazowieckie, 00-845, Polska"
+    },
+    "65": {
+        "lat": 52.2425116,
+        "lon": 21.0111524,
+        "sum_chargers": 64497.938984596134,
+        "num_chargers": 34,
+        "num_roads": 97,
+        "address": "Plac marszałka Józefa Piłsudskiego, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-078, Polska"
+    },
+    "66": {
+        "lat": 52.2432161,
+        "lon": 20.978636899999998,
+        "sum_chargers": 64400.461945439216,
+        "num_chargers": 31,
+        "num_roads": 84,
+        "address": "Dzielna, Muranów Zachodni, Nowolipki, Wola, Warszawa, województwo mazowieckie, 01-029, Polska"
+    },
+    "67": {
+        "lat": 52.212903,
+        "lon": 21.018881999999998,
+        "sum_chargers": 112435.6353183777,
+        "num_chargers": 35,
+        "num_roads": 80,
+        "address": "Tadeusza Boya-Żeleńskiego, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-621, Polska"
+    },
+    "68": {
+        "lat": 52.2152586,
+        "lon": 20.9953465,
+        "sum_chargers": 87144.37992768543,
+        "num_chargers": 32,
+        "num_roads": 83,
+        "address": "Ondraszka, Kolonia Lubeckiego, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-067, Polska"
+    },
+    "69": {
+        "lat": 52.2300531,
+        "lon": 21.0207117,
+        "sum_chargers": 72123.56070511474,
+        "num_chargers": 32,
+        "num_roads": 85,
+        "address": "Mysia, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-501, Polska"
+    },
+    "70": {
+        "lat": 52.1958747,
+        "lon": 20.9589499,
+        "sum_chargers": 60053.42685565056,
+        "num_chargers": 23,
+        "num_roads": 71,
+        "address": "Premiere, 285B, Aleja Krakowska, Raków, Włochy, Warszawa, województwo mazowieckie, 02-133, Polska"
+    },
+    "71": {
+        "lat": 52.2280689,
+        "lon": 20.999442,
+        "sum_chargers": 44551.2765643797,
+        "num_chargers": 28,
+        "num_roads": 88,
+        "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-001, Polska"
+    },
+    "72": {
+        "lat": 52.212083,
+        "lon": 20.9536153,
+        "sum_chargers": 61644.18863423219,
+        "num_chargers": 20,
+        "num_roads": 69,
+        "address": "Opaczewska, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-204, Polska"
+    },
+    "73": {
+        "lat": 52.228753,
+        "lon": 20.9995039,
+        "sum_chargers": 43149.94203891949,
+        "num_chargers": 28,
+        "num_roads": 91,
+        "address": "Varso I, 71, Chmielna, Mirów, Wola, Warszawa, województwo mazowieckie, 00-801, Polska"
+    },
+    "74": {
+        "lat": 52.234517999999994,
+        "lon": 20.999389,
+        "sum_chargers": 47185.28080797461,
+        "num_chargers": 31,
+        "num_roads": 91,
+        "address": "Twarda, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-114, Polska"
+    },
+    "75": {
+        "lat": 52.242440699999996,
+        "lon": 21.0795413,
+        "sum_chargers": 39972.53912624445,
+        "num_chargers": 15,
+        "num_roads": 38,
+        "address": "34, Grenadierów, Grochów-Kinowa, Grochów, Praga-Południe, Warszawa, województwo mazowieckie, 04-073, Polska"
+    },
+    "76": {
+        "lat": 52.213907999999996,
+        "lon": 20.956128,
+        "sum_chargers": 87377.38449335951,
+        "num_chargers": 27,
+        "num_roads": 66,
+        "address": "7, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-335, Polska"
+    },
+    "77": {
+        "lat": 52.2205206,
+        "lon": 21.0232267,
+        "sum_chargers": 69250.52718117669,
+        "num_chargers": 26,
+        "num_roads": 74,
+        "address": "6, Koszykowa, Latawiec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-564, Polska"
+    },
+    "78": {
+        "lat": 52.2357898,
+        "lon": 21.0135221,
+        "sum_chargers": 62527.6545398304,
+        "num_chargers": 33,
+        "num_roads": 92,
+        "address": "Plac Powstańców Warszawy, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-039, Polska"
+    },
+    "79": {
+        "lat": 52.221598799999995,
+        "lon": 21.041171199999997,
+        "sum_chargers": 81123.83570856175,
+        "num_chargers": 25,
+        "num_roads": 72,
+        "address": "Torwar, Most Łazienkowski, Cypel Czerniakowski, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-443, Polska"
+    },
+    "80": {
+        "lat": 52.239937999999995,
+        "lon": 20.902106999999997,
+        "sum_chargers": 5143.001348670925,
+        "num_chargers": 2,
+        "num_roads": 32,
+        "address": "Górczewska, Nowe Górce, Górce, Bemowo, Warszawa, województwo mazowieckie, 01-471, Polska"
+    },
+    "81": {
+        "lat": 52.2223444,
+        "lon": 20.922556699999998,
+        "sum_chargers": 20704.670992958774,
+        "num_chargers": 6,
+        "num_roads": 41,
+        "address": "P+R Połczyńska, Połczyńska, Jelonki Południowe, Bemowo, Warszawa, województwo mazowieckie, 01-378, Polska"
+    },
+    "82": {
+        "lat": 52.260665599999996,
+        "lon": 21.0261255,
+        "sum_chargers": 87281.29516971708,
+        "num_chargers": 31,
+        "num_roads": 72,
+        "address": "Władysława Skoczylasa, Praga II, Nowa Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-465, Polska"
+    },
+    "83": {
+        "lat": 52.2444676,
+        "lon": 21.0456491,
+        "sum_chargers": 73385.1898980484,
+        "num_chargers": 28,
+        "num_roads": 69,
+        "address": "Ryszarda Siwca, Kamionek, Praga-Południe, Warszawa, województwo mazowieckie, 03-724, Polska"
+    },
+    "84": {
+        "lat": 52.235081,
+        "lon": 20.981742,
+        "sum_chargers": 44418.71457891792,
+        "num_chargers": 28,
+        "num_roads": 84,
+        "address": "Krochmalna, Mirów, Wola, Warszawa, województwo mazowieckie, 00-869, Polska"
+    },
+    "85": {
+        "lat": 52.2408253,
+        "lon": 21.0267132,
+        "sum_chargers": 73211.42019158648,
+        "num_chargers": 33,
+        "num_roads": 89,
+        "address": "1A, Leszczyńska, Mariensztat, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-339, Polska"
+    },
+    "86": {
+        "lat": 52.2259998,
+        "lon": 21.0192124,
+        "sum_chargers": 70045.15782452284,
+        "num_chargers": 30,
+        "num_roads": 79,
+        "address": "Krucza Cocktail Bar, 16/22, Krucza, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-526, Polska"
+    },
+    "87": {
+        "lat": 52.227704599999996,
+        "lon": 21.0188561,
+        "sum_chargers": 66415.71893432655,
+        "num_chargers": 30,
+        "num_roads": 84,
+        "address": "Mercure Warszawa Grand, 28, Krucza, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-522, Polska"
+    },
+    "88": {
+        "lat": 52.230225,
+        "lon": 21.020974,
+        "sum_chargers": 72112.82781430919,
+        "num_chargers": 32,
+        "num_roads": 85,
+        "address": "Mysia, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-501, Polska"
+    },
+    "89": {
+        "lat": 52.227546999999994,
+        "lon": 20.998648,
+        "sum_chargers": 45554.91554236034,
+        "num_chargers": 28,
+        "num_roads": 87,
+        "address": "Aleje Jerozolimskie, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-001, Polska"
+    },
+    "90": {
+        "lat": 52.162366999999996,
+        "lon": 21.0439374,
+        "sum_chargers": 62178.89395909823,
+        "num_chargers": 23,
+        "num_roads": 36,
+        "address": "Szkoła Główna Gospodarstwa Wiejskiego, Jana Ciszewskiego, Wysoki Ursynów, Ursynów Centrum, Ursynów, Warszawa, województwo mazowieckie, 02-776, Polska"
+    },
+    "91": {
+        "lat": 52.2445017,
+        "lon": 21.0213133,
+        "sum_chargers": 73195.93705851417,
+        "num_chargers": 34,
+        "num_roads": 84,
+        "address": "Szpital Kliniczny im. ks. Anny Mazowieckiej, Wybrzeże Kościuszkowskie, Mariensztat, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-314, Polska"
+    },
+    "92": {
+        "lat": 52.2299302,
+        "lon": 20.9954873,
+        "sum_chargers": 41081.17909723203,
+        "num_chargers": 28,
+        "num_roads": 88,
+        "address": "Sienna, Mirów, Wola, Warszawa, województwo mazowieckie, 00-833, Polska"
+    },
+    "93": {
+        "lat": 52.2115047,
+        "lon": 20.9582049,
+        "sum_chargers": 86920.01535971598,
+        "num_chargers": 27,
+        "num_roads": 70,
+        "address": "5A, Aleja Bohaterów Września, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-389, Polska"
+    },
+    "94": {
+        "lat": 52.229880099999995,
+        "lon": 20.9961068,
+        "sum_chargers": 41085.14590360234,
+        "num_chargers": 28,
+        "num_roads": 89,
+        "address": "72, Złota, Mirów, Wola, Warszawa, województwo mazowieckie, 00-821, Polska"
+    },
+    "95": {
+        "lat": 52.226726899999996,
+        "lon": 21.0157645,
+        "sum_chargers": 69597.7233859983,
+        "num_chargers": 31,
+        "num_roads": 81,
+        "address": "ZTP Hoża, Hoża, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-521, Polska"
+    },
+    "96": {
+        "lat": 52.2128665,
+        "lon": 21.0541251,
+        "sum_chargers": 20543.33334569375,
+        "num_chargers": 6,
+        "num_roads": 59,
+        "address": "26, Bartycka, Osiedle Siekierki, Czerniaków, Mokotów, Warszawa, województwo mazowieckie, 00-716, Polska"
+    },
+    "97": {
+        "lat": 52.240078999999994,
+        "lon": 21.0285445,
+        "sum_chargers": 75671.98117637826,
+        "num_chargers": 33,
+        "num_roads": 89,
+        "address": "2B, Zajęcza, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-351, Polska"
+    },
+    "98": {
+        "lat": 52.258081999999995,
+        "lon": 20.9825992,
+        "sum_chargers": 81028.09511048779,
+        "num_chargers": 30,
+        "num_roads": 72,
+        "address": "Westfield Arkadia, 82, Aleja Jana Pawła II, Osiedle Stawki, Muranów, Śródmieście, Warszawa, województwo mazowieckie, 00-175, Polska"
+    },
+    "99": {
+        "lat": 52.2352017,
+        "lon": 20.9854321,
+        "sum_chargers": 41280.01972360429,
+        "num_chargers": 28,
+        "num_roads": 86,
+        "address": "Crazy Butcher, 61, Krochmalna, Mirów, Wola, Warszawa, województwo mazowieckie, 00-870, Polska"
+    },
+    "100": {
+        "lat": 52.1929811,
+        "lon": 20.973370499999998,
+        "sum_chargers": 56210.694218478915,
+        "num_chargers": 24,
+        "num_roads": 69,
+        "address": "technikadruku.pl, 27, 1 Sierpnia, Jadwisin, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-134, Polska"
+    },
+    "101": {
+        "lat": 52.1691231,
+        "lon": 20.9760514,
+        "sum_chargers": 67113.34897287702,
+        "num_chargers": 27,
+        "num_roads": 41,
+        "address": "P4, Żwirki i Wigury, Nowy Służewiec, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-159, Polska"
+    },
+    "102": {
+        "lat": 52.248835299999996,
+        "lon": 20.9935829,
+        "sum_chargers": 72765.81903008839,
+        "num_chargers": 34,
+        "num_roads": 84,
+        "address": "Mordechaja Anielewicza, Muranów Północny, Muranów, Śródmieście, Warszawa, województwo mazowieckie, 00-161, Polska"
+    },
+    "103": {
+        "lat": 52.254120799999995,
+        "lon": 20.998674599999998,
+        "sum_chargers": 81304.5689383647,
+        "num_chargers": 34,
+        "num_roads": 80,
+        "address": "Ibis Warszawa Stare Miasto, 2, Muranowska, Osiedle Prezydenckie, Muranów, Śródmieście, Warszawa, województwo mazowieckie, 00-209, Polska"
+    },
+    "104": {
+        "lat": 52.212159,
+        "lon": 20.953702999999997,
+        "sum_chargers": 65594.73325767103,
+        "num_chargers": 21,
+        "num_roads": 69,
+        "address": "Opaczewska, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-204, Polska"
+    },
+    "105": {
+        "lat": 52.233277,
+        "lon": 21.0772056,
+        "sum_chargers": 45481.666018578966,
+        "num_chargers": 15,
+        "num_roads": 44,
+        "address": "Bracławska, Przyczółek Grochowski, Gocław, Praga-Południe, Warszawa, województwo mazowieckie, 04-044, Polska"
+    },
+    "106": {
+        "lat": 52.249697399999995,
+        "lon": 21.0514032,
+        "sum_chargers": 61032.124850330976,
+        "num_chargers": 24,
+        "num_roads": 58,
+        "address": "Lubelska, Kamionek, Praga-Południe, Warszawa, województwo mazowieckie, 03-802, Polska"
+    },
+    "107": {
+        "lat": 52.185193899999994,
+        "lon": 20.9550244,
+        "sum_chargers": 51298.75833525818,
+        "num_chargers": 23,
+        "num_roads": 53,
+        "address": "Komitetu Obrony Robotników, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-178, Polska"
+    },
+    "108": {
+        "lat": 52.2185006,
+        "lon": 21.0462535,
+        "sum_chargers": 58036.42741983331,
+        "num_chargers": 17,
+        "num_roads": 64,
+        "address": "Port Czerniakowski, Most Łazienkowski, Cypel Czerniakowski, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-449, Polska"
+    },
+    "109": {
+        "lat": 52.227135499999996,
+        "lon": 20.9957243,
+        "sum_chargers": 42306.52110582921,
+        "num_chargers": 27,
+        "num_roads": 86,
+        "address": "16, Żelazna, Mirów, Wola, Warszawa, województwo mazowieckie, 00-802, Polska"
+    },
+    "110": {
+        "lat": 52.225630699999996,
+        "lon": 21.1804712,
+        "sum_chargers": 6546.02764835366,
+        "num_chargers": 2,
+        "num_roads": 20,
+        "address": "Linia Parkingowa, Marysin Wawerski Południowy, Marysin Wawerski, Wawer, Warszawa, województwo mazowieckie, 04-630, Polska"
+    },
+    "111": {
+        "lat": 52.1730143,
+        "lon": 20.9945579,
+        "sum_chargers": 61521.17550947641,
+        "num_chargers": 28,
+        "num_roads": 48,
+        "address": "Postępu, Osiedle Służewiec Południowy, Służewiec, Mokotów, Warszawa, województwo mazowieckie, 02-677, Polska"
+    },
+    "112": {
+        "lat": 52.224622399999994,
+        "lon": 21.0119279,
+        "sum_chargers": 51035.08084855177,
+        "num_chargers": 26,
+        "num_roads": 85,
+        "address": "Antique, 11, Poznańska, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-680, Polska"
+    },
+    "113": {
+        "lat": 52.2303894,
+        "lon": 21.0318362,
+        "sum_chargers": 72435.06984907734,
+        "num_chargers": 29,
+        "num_roads": 87,
+        "address": "2, Leona Kruczkowskiego, Solec, Śródmieście, Warszawa, województwo mazowieckie, 00-412, Polska"
+    },
+    "114": {
+        "lat": 52.1837361,
+        "lon": 21.0213449,
+        "sum_chargers": 51039.48484617139,
+        "num_chargers": 23,
+        "num_roads": 55,
+        "address": "Domaniewska, Osiedle Domaniewska, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-663, Polska"
+    },
+    "115": {
+        "lat": 52.283778399999996,
+        "lon": 20.9792247,
+        "sum_chargers": 59767.13327329677,
+        "num_chargers": 19,
+        "num_roads": 53,
+        "address": "Gwiaździsta, Marymont-Ruda, Bielany, Warszawa, województwo mazowieckie, 01-651, Polska"
+    },
+    "116": {
+        "lat": 52.2316146,
+        "lon": 20.9787158,
+        "sum_chargers": 44953.9583691291,
+        "num_chargers": 27,
+        "num_roads": 81,
+        "address": "Wola Center, 33, Przyokopowa, Czyste, Wola, Warszawa, województwo mazowieckie, 01-208, Polska"
+    },
+    "117": {
+        "lat": 52.2306214,
+        "lon": 21.0372084,
+        "sum_chargers": 78810.5443010617,
+        "num_chargers": 29,
+        "num_roads": 87,
+        "address": "Okrąg, Solec, Śródmieście, Warszawa, województwo mazowieckie, 00-421, Polska"
+    },
+    "118": {
+        "lat": 52.190019299999996,
+        "lon": 20.9596906,
+        "sum_chargers": 48288.782627327986,
+        "num_chargers": 22,
+        "num_roads": 61,
+        "address": "Sabały, Jadwisin, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-165, Polska"
+    },
+    "119": {
+        "lat": 52.2397157,
+        "lon": 21.0017084,
+        "sum_chargers": 55377.67877751856,
+        "num_chargers": 33,
+        "num_roads": 97,
+        "address": "ZTP Plac Żelaznej Bramy, Ptasia, Za Żelazną Bramą, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-136, Polska"
+    },
+    "120": {
+        "lat": 52.2277123,
+        "lon": 21.0187724,
+        "sum_chargers": 66324.42184068219,
+        "num_chargers": 30,
+        "num_roads": 84,
+        "address": "Mercure Warszawa Grand, 28, Krucza, Marszałkowska Dzielnica Mieszkaniowa, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-522, Polska"
+    },
+    "121": {
+        "lat": 52.1462788,
+        "lon": 20.996228199999997,
+        "sum_chargers": 51342.61080510198,
+        "num_chargers": 17,
+        "num_roads": 31,
+        "address": "Pląsy, Zielony Ursynów, Wyczółki, Ursynów, Warszawa, województwo mazowieckie, 02-826, Polska"
+    },
+    "122": {
+        "lat": 52.243813599999996,
+        "lon": 20.9652164,
+        "sum_chargers": 59900.06835156841,
+        "num_chargers": 26,
+        "num_roads": 82,
+        "address": "4, Zawiszy, Kolonia Wawelberga, Młynów, Wola, Warszawa, województwo mazowieckie, 01-167, Polska"
+    },
+    "123": {
+        "lat": 52.230487,
+        "lon": 21.0071372,
+        "sum_chargers": 59243.122837678,
+        "num_chargers": 32,
+        "num_roads": 92,
+        "address": "Pasaż Zuzanny Ginczanki, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-001, Polska"
+    },
+    "124": {
+        "lat": 52.190918499999995,
+        "lon": 20.947031,
+        "sum_chargers": 39252.24862394684,
+        "num_chargers": 18,
+        "num_roads": 55,
+        "address": "Orzechowa, Raków, Włochy, Warszawa, województwo mazowieckie, 02-244, Polska"
+    },
+    "125": {
+        "lat": 52.222249299999994,
+        "lon": 21.039431399999998,
+        "sum_chargers": 74464.94085827912,
+        "num_chargers": 24,
+        "num_roads": 77,
+        "address": "Łazienkowska, Cypel Czerniakowski, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-449, Polska"
+    },
+    "126": {
+        "lat": 52.2320862,
+        "lon": 20.9759584,
+        "sum_chargers": 48076.35258773137,
+        "num_chargers": 27,
+        "num_roads": 75,
+        "address": "Siedmiogrodzka, Czyste, Wola, Warszawa, województwo mazowieckie, 01-204, Polska"
+    },
+    "127": {
+        "lat": 52.240271,
+        "lon": 21.027509,
+        "sum_chargers": 74322.73868466762,
+        "num_chargers": 33,
+        "num_roads": 89,
+        "address": "Weekday, Leszczyńska, Mariensztat, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-339, Polska"
+    },
+    "128": {
+        "lat": 52.184238099999995,
+        "lon": 20.9507633,
+        "sum_chargers": 49941.1681774171,
+        "num_chargers": 22,
+        "num_roads": 50,
+        "address": "6, Materii, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-258, Polska"
+    },
+    "129": {
+        "lat": 52.211749,
+        "lon": 21.0492992,
+        "sum_chargers": 39474.5947387502,
+        "num_chargers": 11,
+        "num_roads": 58,
+        "address": "Biedronka, 183, Bartycka, Osiedle Siekierki, Czerniaków, Mokotów, Warszawa, województwo mazowieckie, 00-720, Polska"
+    },
+    "130": {
+        "lat": 52.2544426,
+        "lon": 21.0509795,
+        "sum_chargers": 45568.516870741,
+        "num_chargers": 20,
+        "num_roads": 56,
+        "address": "Osiedle Kijowska, Szmulowizna, Praga-Północ, Warszawa, województwo mazowieckie, 03-740, Polska"
+    },
+    "131": {
+        "lat": 52.1851591,
+        "lon": 20.9415592,
+        "sum_chargers": 32091.240137209323,
+        "num_chargers": 16,
+        "num_roads": 44,
+        "address": "49, Leonidasa, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-239, Polska"
+    },
+    "132": {
+        "lat": 52.2094424,
+        "lon": 20.950577799999998,
+        "sum_chargers": 62790.110582661204,
+        "num_chargers": 20,
+        "num_roads": 68,
+        "address": "Kostka Design, 185, Aleje Jerozolimskie, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-222, Polska"
+    },
+    "133": {
+        "lat": 52.2457767,
+        "lon": 21.0027421,
+        "sum_chargers": 65461.3932745844,
+        "num_chargers": 34,
+        "num_roads": 93,
+        "address": "Abra Studio, 44/50, Długa, Muranów II, Muranów, Śródmieście, Warszawa, województwo mazowieckie, 00-241, Polska"
+    },
+    "134": {
+        "lat": 52.2325808,
+        "lon": 20.9894925,
+        "sum_chargers": 39821.5966749644,
+        "num_chargers": 28,
+        "num_roads": 83,
+        "address": "Stanisława Wernera, Mirów, Wola, Warszawa, województwo mazowieckie, 00-845, Polska"
+    },
+    "135": {
+        "lat": 52.2323758,
+        "lon": 20.990912299999998,
+        "sum_chargers": 39284.22712685239,
+        "num_chargers": 28,
+        "num_roads": 82,
+        "address": "Teodora Wernera, Mirów, Wola, Warszawa, województwo mazowieckie, 00-841, Polska"
+    },
+    "136": {
+        "lat": 52.1807582,
+        "lon": 20.9785462,
+        "sum_chargers": 54765.969391610975,
+        "num_chargers": 26,
+        "num_roads": 48,
+        "address": "Hotel Sangate (w trakcie rozbiórki), 32, Komitetu Obrony Robotników, Okęcie, Włochy, Warszawa, województwo mazowieckie, 02-148, Polska"
+    },
+    "137": {
+        "lat": 52.229790799999996,
+        "lon": 20.9778655,
+        "sum_chargers": 47906.82269859133,
+        "num_chargers": 27,
+        "num_roads": 80,
+        "address": "2, Marcina Kasprzaka, Czyste, Wola, Warszawa, województwo mazowieckie, 01-211, Polska"
+    },
+    "138": {
+        "lat": 52.24746,
+        "lon": 21.0168391,
+        "sum_chargers": 72928.15955714909,
+        "num_chargers": 34,
+        "num_roads": 82,
+        "address": "Grodzka, Stare Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-303, Polska"
+    },
+    "139": {
+        "lat": 52.2899937,
+        "lon": 20.927791799999998,
+        "sum_chargers": 10356.134008282615,
+        "num_chargers": 8,
+        "num_roads": 38,
+        "address": "P+R Metro Młociny, Tomasza Nocznickiego, Huta, Bielany, Warszawa, województwo mazowieckie, 01-948, Polska"
+    },
+    "140": {
+        "lat": 52.2119638,
+        "lon": 20.9495595,
+        "sum_chargers": 59673.47447144384,
+        "num_chargers": 19,
+        "num_roads": 66,
+        "address": "Kołomyjska, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-337, Polska"
+    },
+    "141": {
+        "lat": 52.2550129,
+        "lon": 21.037776299999997,
+        "sum_chargers": 62948.41790348051,
+        "num_chargers": 26,
+        "num_roads": 74,
+        "address": "Galeria Wileńska, 72, Targowa, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-729, Polska"
+    },
+    "142": {
+        "lat": 52.270091099999995,
+        "lon": 21.0166453,
+        "sum_chargers": 75477.80937399568,
+        "num_chargers": 25,
+        "num_roads": 57,
+        "address": "55A, Jagiellońska, Golędzinów, Pelcowizna, Praga-Północ, Warszawa, województwo mazowieckie, 03-301, Polska"
+    },
+    "143": {
+        "lat": 52.190416,
+        "lon": 20.9876805,
+        "sum_chargers": 43231.9848447663,
+        "num_chargers": 22,
+        "num_roads": 60,
+        "address": "78A, Jana Pawła Woronicza, Wyględów, Mokotów, Warszawa, województwo mazowieckie, 02-640, Polska"
+    },
+    "144": {
+        "lat": 52.2585534,
+        "lon": 20.9963895,
+        "sum_chargers": 92191.70098198693,
+        "num_chargers": 34,
+        "num_roads": 76,
+        "address": "Kiss and Ride, Zygmunta Słomińskiego, Nowe Miasto, Śródmieście, Warszawa, województwo mazowieckie, 00-204, Polska"
+    },
+    "145": {
+        "lat": 52.207810099999996,
+        "lon": 20.984883999999997,
+        "sum_chargers": 109232.78436503974,
+        "num_chargers": 36,
+        "num_roads": 70,
+        "address": "Uniwersyteckie Centrum Kliniczne WUM, 1A, Stefana Banacha, Osiedle Szosa Krakowska, Rakowiec, Ochota, Warszawa, województwo mazowieckie, 02-097, Polska"
+    },
+    "146": {
+        "lat": 52.1752135,
+        "lon": 20.9422733,
+        "sum_chargers": 37381.60510181371,
+        "num_chargers": 17,
+        "num_roads": 30,
+        "address": "89, Aleja Krakowska, Załuski, Włochy, Warszawa, województwo mazowieckie, 02-180, Polska"
+    },
+    "147": {
+        "lat": 52.232629499999994,
+        "lon": 20.9795232,
+        "sum_chargers": 43445.92877054696,
+        "num_chargers": 27,
+        "num_roads": 80,
+        "address": "Krajowa Izba Doradców Podatkowych, 85, Grzybowska, Czyste, Wola, Warszawa, województwo mazowieckie, 00-869, Polska"
+    },
+    "148": {
+        "lat": 52.2242001,
+        "lon": 20.9875007,
+        "sum_chargers": 51035.11224294975,
+        "num_chargers": 27,
+        "num_roads": 76,
+        "address": "Aleje Jerozolimskie, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-304, Polska"
+    },
+    "149": {
+        "lat": 52.2099927,
+        "lon": 20.9843253,
+        "sum_chargers": 108481.0638123242,
+        "num_chargers": 36,
+        "num_roads": 69,
+        "address": "Jana Nielubowicza, Rakowiec, Ochota, Warszawa, województwo mazowieckie, 02-097, Polska"
+    },
+    "150": {
+        "lat": 52.223720699999994,
+        "lon": 20.9572272,
+        "sum_chargers": 71852.02503024436,
+        "num_chargers": 25,
+        "num_roads": 68,
+        "address": "81A/1A, Aleja Prymasa Tysiąclecia, Odolany, Wola, Warszawa, województwo mazowieckie, 01-242, Polska"
+    },
+    "151": {
+        "lat": 52.2483742,
+        "lon": 21.06699,
+        "sum_chargers": 36888.076470437016,
+        "num_chargers": 16,
+        "num_roads": 45,
+        "address": "Uniwersytet SWPS, 19/31, Chodakowska, Kamionek, Praga-Południe, Warszawa, województwo mazowieckie, 03-815, Polska"
+    },
+    "152": {
+        "lat": 52.1613986,
+        "lon": 21.0886766,
+        "sum_chargers": 22998.64102716771,
+        "num_chargers": 9,
+        "num_roads": 16,
+        "address": "6, Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, województwo mazowieckie, 02-958, Polska"
+    },
+    "153": {
+        "lat": 52.1818761,
+        "lon": 21.0062024,
+        "sum_chargers": 57062.73808543176,
+        "num_chargers": 27,
+        "num_roads": 58,
+        "address": "TTW Opex, 37B, Domaniewska, Osiedle Domaniewska, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-672, Polska"
+    },
+    "154": {
+        "lat": 52.177956099999996,
+        "lon": 21.0179613,
+        "sum_chargers": 49583.51390614349,
+        "num_chargers": 24,
+        "num_roads": 49,
+        "address": "45, Świeradowska, Zagościniec, Służew, Mokotów, Warszawa, województwo mazowieckie, 02-662, Polska"
+    }
+}
