@@ -5,10 +5,8 @@ import streamlit as st
 import folium
 from streamlit_folium import folium_static
 
-# finds the parking low with most streets and least chargers
-# finds the minimum cost
-
 def minCost(address, power):
+    """given an address returns an address of a transformer station that produces the lowest grid connection cost"""
     # convert the address into cords
     y,x = mc.a2c(address)
     start = (x,y)
@@ -34,7 +32,8 @@ def minCost(address, power):
     # return f"address/cords: {mc.c2a(cords)},\ncost: {cost},\nlength: {min_length}"
     return mc.c2a(cords), cost, min_length
 
-def best_locs(options, parkings):
+def best_locs(options, parking):
+    """returns a dictionary containing the data of the optimal parking lot for EV charger installation"""
     with open('updated_locations.json','r') as f:
         parkings = json.load(f)
 
@@ -52,6 +51,7 @@ def best_locs(options, parkings):
 
 
 def generate_map(selected_options, parkings, best_data):
+    """generates a map of parking lots"""
     map_center = [52.2297, 21.0122]
     folium_map = folium.Map(location=map_center, zoom_start=12)
 
@@ -73,6 +73,7 @@ def generate_map(selected_options, parkings, best_data):
     return folium_map
 
 def main():
+    """app for visualizing the most optimal locations for EV charger installation"""
     # Load dataset
     with open('pl2.json', 'r') as f:
         parkings = json.load(f)
