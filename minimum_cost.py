@@ -18,12 +18,14 @@ class MinimumCost:
 
     @staticmethod
     def a2c(address):
+        """convert address to coordinates"""
         locator = Nominatim(user_agent="TheseDays", timeout=5)
         location = locator.geocode(address)
         return (location.latitude, location.longitude)
     
     @staticmethod
     def c2a(coords):
+        """convert coordinates to address"""
         #cords = (lat, lon)
         locator = Nominatim(user_agent="TheseDays", timeout=5)
         location = locator.reverse(coords, exactly_one=True)
@@ -31,6 +33,7 @@ class MinimumCost:
 
     @staticmethod
     def haversine(y1, x1, y2, x2):
+        """haversine distance between two points"""
         R = 6371000
         y1, x1, y2, x2 = map(math.radians, [y1, x1, y2, x2])
         dlat = y2 - y1
@@ -41,6 +44,7 @@ class MinimumCost:
 
     @staticmethod
     def get_route(start, end, profile='driving-car'):
+        """find the shortest route between two points"""
         # api call 
         headers = {
             'Authorization': MinimumCost.get_api_key(),
@@ -59,12 +63,14 @@ class MinimumCost:
 
     @staticmethod
     def minimum_distance(df, x, y):
+        """find the coordinates of the 5 closest points (transformer stations) to a given coordinate point"""
         distance_li = [(e, n, MinimumCost.haversine(x, y, n, e)) for n, e in zip(df['y'], df['x'])]
         sorted_list = sorted(distance_li, key=lambda x: x[2])        
         return sorted_list[:5]
 
     @staticmethod
-    def min_route(df, lat, lng):
+    def min_route(df, lat, LNG):
+        """find the closest route given a list of coordinates to a specified coordinate"""
         distances = [MinimumCost.get_route((lat, lng), (n, e)) for n, e in zip(df['y'], df['x'])]
         min_val = min(distances)
         index = distances.index(min_val)
