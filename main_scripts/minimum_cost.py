@@ -1,4 +1,3 @@
-import pandas as pd
 import math
 import json
 from geopy.geocoders import Nominatim
@@ -19,7 +18,7 @@ class MinimumCost:
     @staticmethod
     def a2c(address):
         """convert address to coordinates"""
-        locator = Nominatim(user_agent="TheseDays", timeout=5)
+        locator = Nominatim(user_agent="myUserAgent", timeout=5)
         location = locator.geocode(address)
         return (location.latitude, location.longitude)
     
@@ -27,7 +26,7 @@ class MinimumCost:
     def c2a(coords):
         """convert coordinates to address"""
         #cords = (lat, lon)
-        locator = Nominatim(user_agent="TheseDays", timeout=5)
+        locator = Nominatim(user_agent="myUserAgent", timeout=5)
         location = locator.reverse(coords, exactly_one=True)
         return location.address
 
@@ -69,7 +68,7 @@ class MinimumCost:
         return sorted_list[:5]
 
     @staticmethod
-    def min_route(df, lat, LNG):
+    def min_route(df, lat, lng):
         """find the closest route given a list of coordinates to a specified coordinate"""
         distances = [MinimumCost.get_route((lat, lng), (n, e)) for n, e in zip(df['y'], df['x'])]
         min_val = min(distances)

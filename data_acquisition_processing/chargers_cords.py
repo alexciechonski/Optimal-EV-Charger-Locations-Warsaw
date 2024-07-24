@@ -2,6 +2,7 @@ import requests
 import json 
 
 def get_resp():
+    """returns coordinates of 200 closest stations to a specific point"""
     cookies = {
         '_gcl_au': '1.1.370638235.1709837911',
         '_fbp': 'fb.1.1709837910805.1432773877',
@@ -53,6 +54,7 @@ def get_resp():
     return response
 
 def parse_response(response):
+    """parses the json response"""
     chargers = {i+1:{'lat':response.json()['items'][i]['lat'], 'lon':response.json()['items'][i]['lng']} for i in range(len(response.json()['items']))}
     return chargers
 
